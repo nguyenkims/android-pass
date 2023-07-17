@@ -21,3 +21,5 @@ If you want to help us to translate the application, you can learn more about it
 The code and data files in this distribution are licensed under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. See <https://www.gnu.org/licenses/> for a copy of this license.
 
 See [LICENSE](LICENSE) file
+
+Editer
